@@ -1,1 +1,2 @@
 # knn_classification
+### To classify whether a point p belongs to a certain group of points located in certain coordinates or whether it belongs to another set of coordinates based on it's position
